@@ -11,3 +11,4 @@ RUN cd SpeedTest && \
     rm -rf /tmp/build /tmp/src
 
 ENTRYPOINT ["/usr/local/bin/SpeedTest"]
+
